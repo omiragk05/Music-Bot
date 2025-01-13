@@ -1,3 +1,3 @@
 ## 🎧 Song Downloader Telegram Bot 🎧
 
-## 🚀 [Deploy To Heroku](https://dashboard.heroku.com/new?template=https://github.com/omiragk/Music-Bot) 🚀
+this may not work use this code https://github.com/omiragk05/simple-song-dl-tg-bot
